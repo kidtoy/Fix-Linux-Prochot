@@ -1,6 +1,7 @@
 # Fix-Linux-Prochot
 Disable prochot through changing register bit (Using msr)
 
+- Install "msr-tools" (apt-get)
 - Run as sudo
 
 ## Optional
